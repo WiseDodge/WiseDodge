@@ -9,4 +9,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![snake gif](https://github.com/WiseDodge/WiseDodge/blob/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/WiseDodge/WiseDodge/output/github-contribution-grid-snake-dark.svg)
+
