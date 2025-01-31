@@ -11,3 +11,4 @@
 
 ![snake gif](https://raw.githubusercontent.com/WiseDodge/WiseDodge/output/github-contribution-grid-snake-dark.svg)
 
+![Coder Meme](https://codermemes.vercel.app/)
