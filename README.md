@@ -1,4 +1,8 @@
-<h3 align="center">Truth shall never kneel down to tyrannical deception. - The Wise</h3>
+<div align="center">
+  <h3 align="center">Truth shall never kneel down to tyrannical deception. - The Wise</h3>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=WiseDodge&style=flat-square&color=blue" alt="Profile views" />
+</div>
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -12,5 +16,5 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-  <img src="https://raw.githubusercontent.com/WiseDodge/WiseDodge/output/github-contribution-grid-snake-dark.svg" alt="snake gif">
+  <img src="https://raw.githubusercontent.com/WiseDodge/WiseDodge/output/github-contribution-grid-snake-dark.svg" alt="snake gif">
 </a>
