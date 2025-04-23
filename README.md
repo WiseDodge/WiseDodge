@@ -25,7 +25,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=WiseDodge&radius=16&theme=redical&area=true&order=5&hide_title=true&point=FE428E&line=9B2D5F&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
 
-# 📜 Some words of wisdom
+# 📜 Words of Wisdom:
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" style="max-width: 100%; height: auto;" />
 </div>
