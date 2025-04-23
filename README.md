@@ -1,20 +1,37 @@
 <div align="center">
-  <h3 align="center">Truth shall never kneel down to tyrannical deception. - The Wise</h3>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=WiseDodge&style=flat-square&color=blue" alt="Profile views" />
+  <h2 align="center" style="margin-bottom: 20px;">Truth shall never kneel down to tyrannical deception. - The Wise</h2>
+  <img src="https://komarev.com/ghpvc/?username=WiseDodge&style=flat-square&color=blue" alt="Profile views" height="40" />
 </div>
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+<div align="center" style="display: flex; justify-content: space-around; align-items: center; margin-bottom: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo" />
+</div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Wisedodge&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Wisedodge&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Wisedodge&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📈 GitHub Stats:
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=WiseDodge&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="GitHub Stats 1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WiseDodge&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="Github Stats 2"  />
+</div>
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github-readme-streak-stats-one-mauve.vercel.app?user=WiseDodge&theme=radical&hide_border=true" alt="GitHub Stats 3" />
+</div>
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WiseDodge&radius=16&theme=redical&area=true&order=5&hide_title=true&point=FE428E&line=9B2D5F&hide_border=true" height="300" alt="activity-graph graph" />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 📜 Some words of wisdom
+<div align="center" style="margin-bottom: 20px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
+</div>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
-  <img src="https://raw.githubusercontent.com/WiseDodge/WiseDodge/output/github-contribution-grid-snake-dark.svg" alt="snake gif">
-</a>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">
+    <img src="https://raw.githubusercontent.com/WiseDodge/WiseDodge/output/github-contribution-grid-snake-dark.svg" alt="snake gif">
+  </a>
+</div>
