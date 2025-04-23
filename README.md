@@ -1,6 +1,6 @@
 <div align="center">
   <h2 align="center" style="margin-bottom: 20px;">Truth shall never kneel down to tyrannical deception. - The Wise</h2>
-  <img src="https://komarev.com/ghpvc/?username=WiseDodge&style=flat-square&color=blue" alt="Profile views" height="40" />
+  <img src="https://komarev.com/ghpvc/?username=WiseDodge&style=flat-square&color=blue" alt="Profile views" height="35" />
 </div>
 
 # 💻 Tech Stack:
