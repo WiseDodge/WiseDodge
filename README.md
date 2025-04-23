@@ -27,7 +27,7 @@
 
 # 📜 Some words of wisdom
 <div align="center" style="margin-bottom: 20px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" style="max-width: 100%; height: auto;" />
 </div>
 
 <div align="center">
