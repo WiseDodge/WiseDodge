@@ -16,7 +16,7 @@
 # 📈 GitHub Stats:
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=WiseDodge&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="150" alt="GitHub Stats 1" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WiseDodge&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="Github Stats 2"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=WiseDodge&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="150" alt="Github Stats 2"  />
 </div>
 <div align="center" style="margin-bottom: 20px;">
   <img src="https://github-readme-streak-stats-one-mauve.vercel.app?user=WiseDodge&theme=radical&hide_border=true" alt="GitHub Stats 3" />
